@@ -13,7 +13,7 @@ The Smart Campus API is a RESTful web service developed using **JAX-RS** and **J
 ### Key Architectural Features
 
 - **Resource-Oriented Design:** A clear resource hierarchy based on real campus entities such as rooms and sensors.
-- **Versioned API Entry Point:** All endpoints are exposed under `/api/v1`.
+- **Versioned API Entry Point:** All endpoints are exposed under `/`.
 - **In-Memory Data Store:** Uses Java collections instead of a database, as required by the coursework.
 - **Sub-Resource Routing:** Supports nested endpoints such as `/sensors/{id}/readings`.
 - **Advanced Error Handling:** Custom exceptions are mapped to meaningful HTTP responses like `409`, `422`, `403`, and `500`.
