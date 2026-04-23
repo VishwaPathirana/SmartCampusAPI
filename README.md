@@ -312,7 +312,7 @@ The video demonstrates:
 Public GitHub repository link:
 
 ```text
-https://github.com/SteffaniSilva/SmartCampusAPI.git
+https://github.com/VishwaPathirana/SmartCampusAPI
 ```
 
 ---
