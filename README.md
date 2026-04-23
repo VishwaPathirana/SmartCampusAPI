@@ -1,7 +1,7 @@
 # Smart Campus Sensor & Room Management API
 
-**Student:** Vishwa Pathirana
-**Student ID:** w2152993
+**Student:** Vishwa Pathirana<br>
+**Student ID:** w2152993<br>
 **Module:** 5COSC022C.2 Client-Server Architectures
 
 ---
