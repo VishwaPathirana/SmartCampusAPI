@@ -2,7 +2,7 @@
 
 **Student:** Vishwa Pathirana
 **Student ID:** w2152993
-**Module:** 5COSC022C.2 Client-Server Architectures  
+**Module:** 5COSC022C.2 Client-Server Architectures
 
 ---
 
